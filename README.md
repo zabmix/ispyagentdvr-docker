@@ -1,5 +1,5 @@
 # iSpy Agent DVR
-This is a docker image for Agent DVR from iSpy created for convenience. Please consider donating/sponsoring. While still in direct contact with iSpy, we still maintain this at our own time.
+This is a docker image for Agent DVR from iSpy created for convenience ([fork main](https://github.com/doitandbedone/ispyagentdvr-docker/tree/master)). Please consider donating/sponsoring. While still in direct contact with iSpy, we still maintain this at our own time.
 The software creates a local server for IP cameras to be managed. For more information visit:
 https://www.ispyconnect.com/userguide-agent-dvr.aspx
 
